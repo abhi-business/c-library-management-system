@@ -31,31 +31,31 @@ A simple console-based **Library Management System** developed in **C**, using *
 
 ### Menu Interface
 
-![Menu](sandbox:/mnt/data/f9f70fc2-ae75-430a-aff3-5586e9ff1e3b.png)
+![alt text](image.png)
 
 ### Viewing All Books
 
-![View Books](sandbox:/mnt/data/2f28cc41-4a55-42de-95bb-2964e06c3a38.png)
+![alt text](image-1.png)
 
 ### Adding a Book
 
-![Add Book](sandbox:/mnt/data/83ca243c-323e-42d6-af4f-0a506598f479.png)
+![alt text](image-2.png)
 
 ### Searching by ID
 
-![Search Book](sandbox:/mnt/data/c1914dfd-e856-483b-8232-132dce409370.png)
+![alt text](image-3.png)
 
 ### Issuing a Book
 
-![Issue Book](sandbox:/mnt/data/59f029cc-cfaa-48da-9f9a-40b47a8cd28f.png)
+![alt text](image-4.png)
 
 ### Returning a Book
 
-![Return Book](sandbox:/mnt/data/11ea3741-9b8b-4ff5-809b-0df5c056e910.png)
+![alt text](image-5.png)
 
 ### Exit Message
 
-![Exit](sandbox:/mnt/data/512d5dd8-8a46-4e45-93a2-d781820b620a.png)
+![alt text](image-6.png)
 
 ---
 
