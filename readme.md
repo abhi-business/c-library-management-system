@@ -31,31 +31,38 @@ A simple console-based **Library Management System** developed in **C**, using *
 
 ### Menu Interface
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/1d537337-3be1-4d41-953c-31d01a172937)
+
 
 ### Viewing All Books
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/3a899a1e-f1a5-434b-8419-aa4a15a7bdc7)
+
 
 ### Adding a Book
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/249c1909-c69d-4c47-87ac-23c7eb8dbc81)
+
 
 ### Searching by ID
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/e67d387e-c274-4b0b-acfc-7336cd432487)
+
 
 ### Issuing a Book
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/72ef2484-2ea0-4ac7-969c-8ea3b2b85a36)
+
 
 ### Returning a Book
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/cf804527-1479-4cbf-a714-163286c38cf6)
+
 
 ### Exit Message
 
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/7b6afea4-eabc-40d1-97c1-0d800c57cd6f)
+
 
 ---
 
